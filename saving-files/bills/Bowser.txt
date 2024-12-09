@@ -1,0 +1,6 @@
+Bill breakdown: 
+stew:                     ...$6.99 
+toffee pudding:           ...$5.25 
+pakoda:                   ...$5 
+                     tip: ...$0
+                   total: ...$17.24
